@@ -16,12 +16,11 @@ void name1 (){
 void name2 (){
   pushMatrix();
   textMode(SHAPE);
-  textAlign(CENTER, CENTER);
-  textSize(10);
+  textAlign(LEFT);
+  textSize(30);
   fill(150, 150, 0);
   //scale(scale);
-  translate(width + 10, height + 5);
-  text("MIKELINXJ", 0, 0);
+  text("MIKELINXJ",10, 25);
   popMatrix();
 
 }
