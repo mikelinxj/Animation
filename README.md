@@ -6,7 +6,7 @@
 ## Author
 
 - [@mikelinxj](https://github.com/mikelinxj)
-- [REPOSITORIO](https://github.com/mikelinxj/Black_Hole_Alfa)
+- [REPOSITORIO](https://github.com/mikelinxj/Animation/tree/main)
 
 
 ## Features
