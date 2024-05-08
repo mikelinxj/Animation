@@ -37,6 +37,7 @@ void draw(){
   
   angle +=0.1;
   scale = sin(angle)+1.5;
+  
   if (tiempo < 20000){
     name1();
   }

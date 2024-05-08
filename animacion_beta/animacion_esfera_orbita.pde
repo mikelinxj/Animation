@@ -78,7 +78,15 @@ void esfera (){
   sphere(30);
   popMatrix();
   
-  
+  pushMatrix();
+  noFill();
+  strokeWeight(0.5);
+  stroke(255);
+  ellipse(width/2, height/2, 296, 296);
+  ellipse(width/2, height/2, 453, 453);
+  ellipse(width/2, height/2, 580, 580);
+  ellipse(width/2, height/2, 710, 710);
+  popMatrix();
   angle_esfera += speed; // Incrementa el ángulo
 }
 
